@@ -1,15 +1,13 @@
 ### Hi!
 
-This space collects apps & APIs I have developed for personal use.
+In my spare time, I have been developping a handful of apps & APIs for personal use.
 
-The pins 📍
-* [`booktocards`](https://github.com/xavierfontaine/booktocards) 📖: the web app I use to create flashcards from Japanese books, websites, etc. 
+Here are 3 pins 📍
+* [`booktocards`](https://github.com/xavierfontaine/booktocards) 📖: my web app for creating flashcards from Japanese books, websites, etc.
 
-* [`generatools`](https://github.com/xavierfontaine/generatools) ⚗️: my old (2021) experimentation API for Natural Language Generation.
-Programmatic prompting, grid exploration of prompt configurations, output evaluation UMI, and
-experiment storage.
+* [`generatools`](https://github.com/xavierfontaine/generatools) ⚗️: my old (2021) experimentation API for Natural Language Generation (programmatic prompting, grid exploration of prompt configurations, output evaluation interface, and experiment storage.)
 
-* [`mysensei`](https://github.com/xavierfontaine/mysensei) 👩‍🏫: a tiny web app that generates mnemonics for Japanese kanjis and vocabularies. More an exploration of [NiceGUI](https://nicegui.io/) than anything else.
+* [`mysensei`](https://github.com/xavierfontaine/mysensei) 👩‍🏫: a tiny web app that generates mnemonic stories for memorizing Japanese kanjis and vocabularies. More an exploration of [NiceGUI](https://nicegui.io/) than anything else.
 
 <!--
 **xavierfontaine/xavierfontaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
