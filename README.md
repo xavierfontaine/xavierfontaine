@@ -1,9 +1,8 @@
 ### Hi!
 
-In my spare time, I have been developping a handful of apps & APIs for personal use.
+In my spare time, I have been developping a handful of apps & APIs for my personal use.
 
-Here are 3 pins 📍
-* [`booktocards`](https://github.com/xavierfontaine/booktocards) 📖: my web app for creating flashcards from Japanese books, websites, etc.
+* [`booktocards`](https://github.com/xavierfontaine/booktocards) 📖: my web app for creating flashcards from Japanese books, websites, Slack logs...
 
 * [`generatools`](https://github.com/xavierfontaine/generatools) ⚗️: my old (2021) experimentation API for Natural Language Generation (programmatic prompting, grid exploration of prompt configurations, output evaluation interface, and experiment storage.)
 
